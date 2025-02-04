@@ -18,7 +18,7 @@ namespace CalculatorV2
             Console.WriteLine("7.Kubun tapilmasi");
         Label1:
             bool is_integer = int.TryParse(Console.ReadLine(), out int choice);
-            if (!is_integer || (choice!=1 || choice != 2 || choice != 3 || choice != 4 || choice != 5 || choice != 6 || choice != 7)) {
+            if (!is_integer && (choice!=1 || choice != 2 || choice != 3 || choice != 4 || choice != 5 || choice != 6 || choice != 7)) {
                 Console.WriteLine("Xais olunur menyudan duzgun secim edin!");
                 goto Label1;
             }
