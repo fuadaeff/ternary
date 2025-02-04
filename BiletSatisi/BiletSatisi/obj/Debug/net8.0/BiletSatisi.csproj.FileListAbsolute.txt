@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\bin\Debug\net8.0\BiletSatisi.exe
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\bin\Debug\net8.0\BiletSatisi.deps.json
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\bin\Debug\net8.0\BiletSatisi.runtimeconfig.json
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\bin\Debug\net8.0\BiletSatisi.dll
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\bin\Debug\net8.0\BiletSatisi.pdb
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.AssemblyInfo.cs
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.dll
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\refint\BiletSatisi.dll
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.pdb
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\BiletSatisi.genruntimeconfig.cache
+C:\Users\elsad\source\repos\BiletSatisi\BiletSatisi\obj\Debug\net8.0\ref\BiletSatisi.dll
