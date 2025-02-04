@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\bin\Debug\net8.0\SalamMesaji.exe
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\bin\Debug\net8.0\SalamMesaji.deps.json
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\bin\Debug\net8.0\SalamMesaji.runtimeconfig.json
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\bin\Debug\net8.0\SalamMesaji.dll
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\bin\Debug\net8.0\SalamMesaji.pdb
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.AssemblyInfo.cs
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.dll
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\refint\SalamMesaji.dll
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.pdb
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\SalamMesaji.genruntimeconfig.cache
+C:\Users\elsad\source\repos\SalamMesaji\SalamMesaji\obj\Debug\net8.0\ref\SalamMesaji.dll
