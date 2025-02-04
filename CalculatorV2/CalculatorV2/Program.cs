@@ -44,15 +44,21 @@ namespace CalculatorV2
                 sum = result1 + result2;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {sum}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit1:
                 string answer1 = Console.ReadLine().ToLower();
                 if (answer1 == "he")
                 {
                     goto LabelLoop;
                 }
-                else 
+                else if (answer1 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else 
+                {
+                    Console.WriteLine("Duzgun giris edin!");
+                    goto LabelExit1;
                 }
             }
             #endregion
@@ -79,15 +85,21 @@ namespace CalculatorV2
                 sub = result3 - result4;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {sub}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+                LabelExit2:
                 string answer2 = Console.ReadLine().ToLower();
                 if (answer2 == "he")
                 {
                     goto LabelLoop;
                 }
-                else
+                else if (answer2 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else 
+                {
+                    Console.WriteLine("Duzgun giris edin!");
+                    goto LabelExit2;
                 }
             }
             #endregion
@@ -113,15 +125,21 @@ namespace CalculatorV2
                 multiple = result5 * result6;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {multiple}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit3:
                 string answer3 = Console.ReadLine().ToLower();
                 if (answer3 == "he")
                 {
                     goto LabelLoop;
                 }
-                else 
+                else if (answer3 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else 
+                {
+                    Console.WriteLine("Duzgun daxil edin!");
+                    goto LabelExit3;
                 }
             }
             #endregion
@@ -152,15 +170,21 @@ namespace CalculatorV2
                 division = result7 / result8;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {division}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit4:
                 string answer4 = Console.ReadLine().ToLower();
                 if (answer4 == "he")
                 {
                     goto LabelLoop;
                 }
-                else 
+                else if (answer4 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else
+                {
+                    Console.WriteLine("Duzgun daxil edin!");
+                    goto LabelExit4;
                 }
             }
             #endregion
@@ -184,15 +208,21 @@ namespace CalculatorV2
                 sqrt = Math.Sqrt(result9);
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {sqrt}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit5:
                 string answer5 = Console.ReadLine().ToLower();
                 if (answer5 == "he")
                 {
                     goto LabelLoop;
                 }
-                else
+                else if (answer5 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else
+                {
+                    Console.WriteLine("Duzgun daxil edin!");
+                    goto LabelExit5;
                 }
             }
             #endregion
@@ -211,15 +241,21 @@ namespace CalculatorV2
                 kvadrat = result10 * result10;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {kvadrat}-dir.");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit6:
                 string answer6 = Console.ReadLine().ToLower();
                 if (answer6 == "he")
                 {
                     goto LabelLoop;
                 }
-                else
+                else if (answer6 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else
+                {
+                    Console.WriteLine("Duzgun daxil edin!");
+                    goto LabelExit6;
                 }
             }
             #endregion
@@ -238,15 +274,21 @@ namespace CalculatorV2
                 kub = result11 * result11 * result11;
                 Console.WriteLine($"Etdiyiniz emeliyyatin neticesi {kub}-dir");
                 Console.WriteLine("Basqa emeliyyat etmek isteyirsiniz?(he/yox)");
+            LabelExit7:
                 string answer7 = Console.ReadLine().ToLower();
                 if (answer7 == "he")
                 {
                     goto LabelLoop;
                 }
-                else
+                else if (answer7 == "yox")
                 {
                     Console.WriteLine("\"Sirincay\" kalkulyatordan istifade etdiyiniz ucun tesekkurler! <3");
                     return;
+                }
+                else
+                {
+                    Console.WriteLine("Duzgun daxil edin!");
+                    goto LabelExit7;
                 }
             }
             #endregion
