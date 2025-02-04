@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\bin\Debug\net8.0\CalculatorV2.exe
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\bin\Debug\net8.0\CalculatorV2.deps.json
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\bin\Debug\net8.0\CalculatorV2.runtimeconfig.json
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\bin\Debug\net8.0\CalculatorV2.dll
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\bin\Debug\net8.0\CalculatorV2.pdb
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.AssemblyInfo.cs
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.dll
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\refint\CalculatorV2.dll
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.pdb
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\CalculatorV2.genruntimeconfig.cache
+C:\Users\elsad\source\repos\CalculatorV2\CalculatorV2\obj\Debug\net8.0\ref\CalculatorV2.dll
