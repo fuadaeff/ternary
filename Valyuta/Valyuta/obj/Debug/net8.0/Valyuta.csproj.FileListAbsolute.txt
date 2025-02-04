@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\Valyuta\Valyuta\bin\Debug\net8.0\Valyuta.exe
+C:\Users\elsad\source\repos\Valyuta\Valyuta\bin\Debug\net8.0\Valyuta.deps.json
+C:\Users\elsad\source\repos\Valyuta\Valyuta\bin\Debug\net8.0\Valyuta.runtimeconfig.json
+C:\Users\elsad\source\repos\Valyuta\Valyuta\bin\Debug\net8.0\Valyuta.dll
+C:\Users\elsad\source\repos\Valyuta\Valyuta\bin\Debug\net8.0\Valyuta.pdb
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.AssemblyInfo.cs
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.dll
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\refint\Valyuta.dll
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.pdb
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\Valyuta.genruntimeconfig.cache
+C:\Users\elsad\source\repos\Valyuta\Valyuta\obj\Debug\net8.0\ref\Valyuta.dll
